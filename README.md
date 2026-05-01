@@ -24,4 +24,21 @@ A Kotlin based Android application that allows users to scan documents using the
 * **UI/UX:** XML   
 * **Database:** SQLite   
 * **Graphics:** Android Canvas, Bitmap & Matrix APIs  
-* **PDF Generation:** Android PdfDocument API  
+* **PDF Generation:** Android PdfDocument API
+
+---
+
+### App Screenshots
+
+<p align="center">
+  <img src="1.png" width="230" height="480" />
+  <img src="2.png" width="230" height="480" />
+  <img src="3.png" width="230" height="480" />
+</p>
+
+<p align="center">
+  <img src="4.png" width="230" height="480" />
+  <img src="5.png" width="230" height="480" />
+  <img src="6.png" width="230" height="480" />
+</p>
+
