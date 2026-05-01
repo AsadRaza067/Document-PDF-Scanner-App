@@ -1,4 +1,4 @@
-# Document-PDF-Scanner-App
+# Document PDF Scanner App
 
 A Kotlin based Android application that allows users to scan documents using the device camera, crop and enhance images, and convert them into PDF files. The app is designed for fast and simple document digitization and management.
 
